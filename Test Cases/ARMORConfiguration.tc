@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test all interfunction</description>
+   <name>ARMORConfiguration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc1125fe-f571-4ec7-8f86-19ae132c1499</testCaseGuid>
+</TestCaseEntity>
