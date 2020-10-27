@@ -1,5 +1,6 @@
 # Katalon-Web-Automated-Tests
 運用Katalon實作網頁自動化測試<br>
+主要使用groovy開發(原文件上寫Java是錯的，正確之使用工具為groovy及Katalon) <br>
 此為實習時的團隊作品(2人)<br>
 <br>
 <br>
