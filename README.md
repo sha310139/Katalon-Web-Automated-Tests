@@ -17,24 +17,58 @@ https://www.katalon.com/<br>
 
 ## 功能
 * AIC
-** AIC_button_test
-** AIC_server_test
+
+  * AIC_button_test
+  
+  * AIC_server_test
+
 <br>
+
 * ARMOR
 
-** Allgroup
+  * practice
 
-** AllRack
+  * Allgroup
 
-**
+  * AllRack
 
+  * group_rack
+
+  * single_rack
+  
+  * Configuration
+  
+  * Dashboard
+  
+  * biosUpdate
+  
+  * bmcUpdate
+
+  * CreateUser
+  
+  * openLED
+  
+  * turnOffLED
+  
 <br>
 
 * BMC
 
+  * NFS Test
+
+  * NTP Test
+
+  * IPMITest7.9
+
+  * bmcUpdate
+
+  * PowerCtl
+
 <br>
 
 * TOAST
+
+  * burnin
 
 <br>
 
