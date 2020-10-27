@@ -41,7 +41,27 @@ https://www.katalon.com/<br>
 <br>
 <br>
 
+## 測試網頁說明
+
+* AIC : 包含BMC基本功能之網頁
+
+<br>
+
+* ARMOR : 用於遠端控制多台rack及server的網頁，結合BMC，可達成許多功能，包含燒錄BIOS版本、使用DHCP等等
+
+<br>
+
+* BMC : 用於遠端控制單台server的網頁
+
+<br>
+
+* TOAST : 用於遠端燒錄多台server的網頁
+
+<br>
+<br>
+
 ## 功能
+
 * AIC
 
   * AIC_button_test
@@ -52,13 +72,9 @@ https://www.katalon.com/<br>
 
 * ARMOR
 
-  用於遠端控制多台rack及server的網頁，<br>
-  結合BMC，可達成許多功能，包含燒錄BIOS版本、使用DHCP等等<br>
-<br>
-
   * practice
 
-  * Allgroup
+  * Allgroup :
   
     針對所有群組操作的功能進行測試
 
@@ -109,49 +125,32 @@ https://www.katalon.com/<br>
   
 <br>
 
-* BMC<br>
-
-  用於遠端控制單台server的網頁<br>
-<br>
+* BMC
 
   * NFS Test
   
     測試NFS server連接功能是否正常
-  
-  <br>
 
   * NTP Test
   
     自行在centos7系統架設NTP server<br>
     藉此測試NTP server連接功能是否正常
-  
-  <br>
 
   * IPMITest7.9
   
     測試BMC網頁上所有按鈕是否正常
-  
-<br>
-
+    
   * bmcUpdate
   
     測試BMC版本更新功能是否正常
-  
-  <br>
 
   * PowerCtl
   
     針對電源開關按鈕進行測試
-  
-  <br>
 
 <br>
 
-* TOAST<br>
-
-  用於遠端燒錄多台server的網頁
-
-<br>
+* TOAST
 
   * burnin
   
